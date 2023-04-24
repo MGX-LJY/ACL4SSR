@@ -363,3 +363,8 @@ DOMAIN-SUFFIX,ocnttv.com
 # VikACG
 DOMAIN-SUFFIX,vikacg.com
 DOMAIN-SUFFIX,picjs.xyz
+
+#补全网站
+DOMAIN-SUFFIX,codeium.com
+DOMAIN-SUFFIX,codepen.io
+DOMAIN-KEYWORD,codepen
