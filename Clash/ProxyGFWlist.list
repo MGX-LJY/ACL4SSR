@@ -366,5 +366,5 @@ DOMAIN-SUFFIX,picjs.xyz
 
 #补全网站
 DOMAIN-SUFFIX,codeium.com
-DOMAIN-SUFFIX,codepen.io
-DOMAIN-KEYWORD,codepen
+DOMAIN-SUFFIX,codeium.io
+DOMAIN-KEYWORD,codeium
