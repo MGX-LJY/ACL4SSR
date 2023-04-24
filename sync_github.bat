@@ -6,5 +6,5 @@ echo Pushing local changes to remote repository...
 git add .
 git commit -m "Sync local and remote repositories"
 git push
-echo Sync complete. Press any key to exit.
-pause >nul
+echo Sync complete. Waiting for 3 seconds before exit...
+timeout /t 0.1 /nobreak >nul
