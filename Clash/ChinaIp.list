@@ -3,7 +3,6 @@
 # 更新：2023-04-20 21:25:08
 # 数量：6291条
 
-IP-CIDR,1.0.1.0/24,no-resolve
 IP-CIDR,1.0.2.0/23,no-resolve
 IP-CIDR,1.0.8.0/21,no-resolve
 IP-CIDR,1.0.32.0/19,no-resolve
@@ -120,9 +119,6 @@ IP-CIDR,17.88.108.0/23,no-resolve
 IP-CIDR,17.88.112.0/21,no-resolve
 IP-CIDR,17.88.128.0/18,no-resolve
 IP-CIDR,17.88.192.0/21,no-resolve
-IP-CIDR,17.88.200.0/22,no-resolve
-IP-CIDR,17.88.204.0/23,no-resolve
-IP-CIDR,17.88.206.0/24,no-resolve
 IP-CIDR,17.91.192.0/21,no-resolve
 IP-CIDR,17.91.216.0/21,no-resolve
 IP-CIDR,17.93.8.0/21,no-resolve
@@ -2635,7 +2631,6 @@ IP-CIDR,103.219.88.0/21,no-resolve
 IP-CIDR,103.219.96.0/21,no-resolve
 IP-CIDR,103.219.176.0/22,no-resolve
 IP-CIDR,103.219.184.0/22,no-resolve
-IP-CIDR,103.220.48.0/20,no-resolve
 IP-CIDR,103.220.64.0/22,no-resolve
 IP-CIDR,103.220.93.0/24,no-resolve
 IP-CIDR,103.220.94.0/23,no-resolve

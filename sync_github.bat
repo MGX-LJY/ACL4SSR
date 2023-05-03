@@ -1,5 +1,5 @@
 @echo off
-cd /d "D:\GAME\GitHub\clash\ACL4SSR"
+cd /d "D:\GitHub\clash\ACL4SSR"
 echo Pulling changes from remote repository...
 git pull
 echo Pushing local changes to remote repository...
