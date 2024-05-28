@@ -1,0 +1,89 @@
+# 操作系统文件
+.DS_Store
+Thumbs.db
+
+# 日志文件
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# 临时文件
+*.swp
+*.swo
+*.tmp
+*.temp
+
+# Node.js
+node_modules/
+package-lock.json
+yarn.lock
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+venv/
+.env
+*.env
+
+# Java
+*.class
+*.jar
+*.war
+*.ear
+*.iml
+*.iws
+.idea/
+target/
+build/
+
+# .NET
+*.dll
+*.exe
+*.pdb
+*.cache
+*.mdb
+*.csproj.user
+bin/
+obj/
+.vscode/
+
+# Ruby
+*.gem
+*.rbc
+.bundle/
+log/
+tmp/
+vendor/bundle/
+*.rvmrc
+*.rbenv-vars
+
+# PHP
+vendor/
+
+# Go
+*.test
+*.out
+
+# Swift
+*.xcodeproj/*
+!*.xcodeproj/project.pbxproj
+!*.xcodeproj/xcshareddata
+!*.xcodeproj/xcshareddata/*
+!*.xcworkspace/contents.xcworkspacedata
+*.xcworkspace/xcuserdata
+
+# macOS
+*.DS_Store
+.AppleDouble
+.LSOverride
+
+# Windows
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# Linux
+*~
