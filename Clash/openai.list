@@ -1,17 +1,83 @@
+##########  Overseas‑AI 2025‑07‑20 ##########
+# OpenAI & 相关（已存在，保留）
 DOMAIN-KEYWORD,openai
-DOMAIN-SUFFIX,ai.com
-DOMAIN-SUFFIX,challenges.cloudflare.com
-DOMAIN-SUFFIX,openaiapi-site.azureedge.net
 DOMAIN-SUFFIX,openai.com
-DOMAIN-KEYWORD,sentry
-DOMAIN-KEYWORD,poe
+DOMAIN-SUFFIX,ai.com
+DOMAIN-SUFFIX,openaiapi-site.azureedge.net
 DOMAIN-KEYWORD,chatgpt
-DOMAIN-KEYWORD,Claude
+DOMAIN-KEYWORD,sentry
+DOMAIN-KEYWORD,poe            # poe.com
+
+# Anthropic / Claude:contentReference[oaicite:0]{index=0}
+DOMAIN-SUFFIX,anthropic.com
+DOMAIN-SUFFIX,claude.ai
 DOMAIN-KEYWORD,anthropic
 DOMAIN-KEYWORD,claude
-DOMAIN-KEYWORD,chatgpt
-DOMAIN-KEYWORD,openai
-DOMAIN-KEYWORD,openaiapi
-DOMAIN-KEYWORD,openai.com
-DOMAIN-KEYWORD,openaiapi-site.azureedge.net
-DOMAIN-KEYWORD,openaiapi-site.azureedge.net
+
+# Google Gemini:contentReference[oaicite:1]{index=1}
+DOMAIN-SUFFIX,gemini.google.com
+DOMAIN-KEYWORD,gemini
+
+# Microsoft Copilot:contentReference[oaicite:2]{index=2}
+DOMAIN-SUFFIX,copilot.microsoft.com
+DOMAIN-KEYWORD,copilot
+
+# Meta AI / Llama 3:contentReference[oaicite:3]{index=3}
+DOMAIN-SUFFIX,meta.ai
+DOMAIN-SUFFIX,ai.meta.com
+DOMAIN-KEYWORD,metaai
+
+# Perplexity AI:contentReference[oaicite:4]{index=4}
+DOMAIN-SUFFIX,perplexity.ai
+DOMAIN-KEYWORD,perplexity
+
+# You.com / YouChat:contentReference[oaicite:5]{index=5}
+DOMAIN-SUFFIX,you.com
+DOMAIN-KEYWORD,youchat
+DOMAIN-KEYWORD,youai
+
+# Mistral AI:contentReference[oaicite:6]{index=6}
+DOMAIN-SUFFIX,mistral.ai
+DOMAIN-KEYWORD,mistral
+
+# Cohere:contentReference[oaicite:7]{index=7}
+DOMAIN-SUFFIX,cohere.ai
+DOMAIN-SUFFIX,cohere.com
+DOMAIN-KEYWORD,cohere
+
+# Hugging Face:contentReference[oaicite:8]{index=8}
+DOMAIN-SUFFIX,huggingface.co
+DOMAIN-KEYWORD,huggingface
+
+# Stability AI / Stable Diffusion:contentReference[oaicite:9]{index=9}
+DOMAIN-SUFFIX,stability.ai
+DOMAIN-KEYWORD,stability
+DOMAIN-KEYWORD,stablediffusion
+
+# Midjourney（图像生成）:contentReference[oaicite:10]{index=10}
+DOMAIN-SUFFIX,midjourney.com
+DOMAIN-KEYWORD,midjourney
+
+# Character AI:contentReference[oaicite:11]{index=11}
+DOMAIN-SUFFIX,character.ai
+DOMAIN-KEYWORD,characterai
+DOMAIN-KEYWORD,character
+
+# xAI / Grok:contentReference[oaicite:12]{index=12}
+DOMAIN-SUFFIX,x.ai
+DOMAIN-KEYWORD,xai
+DOMAIN-KEYWORD,grok
+
+# Reka AI:contentReference[oaicite:13]{index=13}
+DOMAIN-SUFFIX,reka.ai
+DOMAIN-KEYWORD,reka
+
+# Jasper AI（营销内容生成）:contentReference[oaicite:14]{index=14}
+DOMAIN-SUFFIX,jasper.ai
+DOMAIN-KEYWORD,jasper
+
+# Rewind AI（本地回溯记忆）:contentReference[oaicite:15]{index=15}
+DOMAIN-SUFFIX,rewind.ai
+DOMAIN-KEYWORD,rewind
+
+##########  End of Overseas‑AI list ##########
