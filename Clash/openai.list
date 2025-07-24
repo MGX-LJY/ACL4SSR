@@ -6,7 +6,7 @@ DOMAIN-SUFFIX,ai.com
 DOMAIN-SUFFIX,openaiapi-site.azureedge.net
 DOMAIN-KEYWORD,chatgpt
 DOMAIN-KEYWORD,sentry
-DOMAIN-KEYWORD,poe            # poe.com
+DOMAIN-KEYWORD,poe
 
 # Anthropic / Claude:contentReference[oaicite:0]{index=0}
 DOMAIN-SUFFIX,anthropic.com
