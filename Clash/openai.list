@@ -1,5 +1,5 @@
-##########  Overseas‑AI 2025‑07‑20 ##########
-# OpenAI & 相关（已存在，保留）
+########## OpenAI & AI Services 2026-05-07 ##########
+# OpenAI & ChatGPT
 DOMAIN-KEYWORD,openai
 DOMAIN-SUFFIX,openai.com
 DOMAIN-SUFFIX,ai.com
@@ -7,12 +7,6 @@ DOMAIN-SUFFIX,openaiapi-site.azureedge.net
 DOMAIN-KEYWORD,chatgpt
 DOMAIN-KEYWORD,sentry
 DOMAIN-KEYWORD,poe
-
-# Anthropic / Claude:contentReference[oaicite:0]{index=0}
-DOMAIN-SUFFIX,anthropic.com
-DOMAIN-SUFFIX,claude.ai
-DOMAIN-KEYWORD,anthropic
-DOMAIN-KEYWORD,claude
 
 # Google Gemini:contentReference[oaicite:1]{index=1}
 DOMAIN-SUFFIX,gemini.google.com
@@ -80,4 +74,4 @@ DOMAIN-KEYWORD,jasper
 DOMAIN-SUFFIX,rewind.ai
 DOMAIN-KEYWORD,rewind
 
-##########  End of Overseas‑AI list ##########
+########## End of OpenAI & AI Services list ##########

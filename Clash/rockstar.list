@@ -1,0 +1,19 @@
+########## Rockstar Games 2026-05-07 ##########
+# Rockstar Games 官方域名
+DOMAIN-SUFFIX,rockstargames.com
+DOMAIN-SUFFIX,rockstar.com
+DOMAIN-KEYWORD,rockstar
+
+# GTA Online / Social Club
+DOMAIN-SUFFIX,socialclub.rockstargames.com
+DOMAIN-SUFFIX,prod.cloud.rockstargames.com
+DOMAIN-KEYWORD,socialclub
+
+# Rockstar Games Launcher
+DOMAIN-SUFFIX,gamedownloads-rockstargames-com.akamaized.net
+DOMAIN-KEYWORD,rockstarlauncher
+
+# Red Dead Online
+DOMAIN-KEYWORD,reddead
+
+########## End of Rockstar list ##########
