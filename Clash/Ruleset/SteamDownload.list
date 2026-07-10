@@ -1,0 +1,26 @@
+# 内容：Steam下载
+# 数量：24条
+DOMAIN,edge.steam-dns.top.comcast.net
+DOMAIN,f3b7q2p3.ssl.hwcdn.net
+DOMAIN,steam.apac.qtlglb.com
+DOMAIN,steam.cdn.on.net
+DOMAIN,steam.cdn.orcon.net.nz
+DOMAIN,steam.cdn.slingshot.co.nz
+DOMAIN,steam.cdn.webra.ru
+DOMAIN,steam.eca.qtlglb.com
+DOMAIN,steam.naeu.qtlglb.com
+DOMAIN,steam.ru.qtlglb.com
+DOMAIN,steambroadcast.akamaized.net
+DOMAIN,steamcdn-a.akamaihd.net
+DOMAIN,steamcommunity-a.akamaihd.net
+DOMAIN,steamcontent.tnkjmec.com
+DOMAIN,steammobile.akamaized.net
+DOMAIN,steampipe-kr.akamaized.net
+DOMAIN,steampipe-partner.akamaized.net
+DOMAIN,steampipe.akamaized.net
+DOMAIN,steamstore-a.akamaihd.net
+DOMAIN,steamuserimages-a.akamaihd.net
+DOMAIN,steamvideo-a.akamaized.net
+DOMAIN-SUFFIX,steamunlocked.net
+DOMAIN-KEYWORD,steambroadcast
+DOMAIN-KEYWORD,steamuserimages
