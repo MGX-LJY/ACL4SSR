@@ -1,77 +1,116 @@
-########## OpenAI & AI Services 2026-05-07 ##########
+########## OpenAI & AI Services 2026-07-11 ##########
 # OpenAI & ChatGPT
 DOMAIN-KEYWORD,openai
 DOMAIN-SUFFIX,openai.com
 DOMAIN-SUFFIX,ai.com
 DOMAIN-SUFFIX,openaiapi-site.azureedge.net
+DOMAIN-SUFFIX,chatgpt.com
+DOMAIN-SUFFIX,oaistatic.com
+DOMAIN-SUFFIX,oaiusercontent.com
+DOMAIN-SUFFIX,sora.com
+DOMAIN-SUFFIX,auth0.com
+DOMAIN-SUFFIX,client-api.arkoselabs.com
+DOMAIN-SUFFIX,events.statsigapi.net
+DOMAIN-SUFFIX,featuregates.org
+DOMAIN-SUFFIX,identrust.com
+DOMAIN-SUFFIX,intercom.io
+DOMAIN-SUFFIX,intercomcdn.com
 DOMAIN-KEYWORD,chatgpt
 DOMAIN-KEYWORD,sentry
 DOMAIN-KEYWORD,poe
 
-# Google Gemini:contentReference[oaicite:1]{index=1}
+# Google Gemini
 DOMAIN-SUFFIX,gemini.google.com
+DOMAIN-SUFFIX,bard.google.com
+DOMAIN-SUFFIX,makersuite.google.com
+DOMAIN,ai.google.dev
+DOMAIN,aistudio.google.com
+DOMAIN,bard.google.com
+DOMAIN,generativelanguage.googleapis.com
+DOMAIN,notebooklm.google.com
 DOMAIN-KEYWORD,gemini
 
-# Microsoft Copilot:contentReference[oaicite:2]{index=2}
+# Microsoft Copilot
 DOMAIN-SUFFIX,copilot.microsoft.com
+DOMAIN-SUFFIX,copilot.cloud.microsoft
+DOMAIN-SUFFIX,ai.azure.com
+DOMAIN,sydney.bing.com
+DOMAIN,api.githubcopilot.com
+DOMAIN,copilot-proxy.githubusercontent.com
 DOMAIN-KEYWORD,copilot
 
-# Meta AI / Llama 3:contentReference[oaicite:3]{index=3}
+# Meta AI / Llama
 DOMAIN-SUFFIX,meta.ai
 DOMAIN-SUFFIX,ai.meta.com
 DOMAIN-KEYWORD,metaai
 
-# Perplexity AI:contentReference[oaicite:4]{index=4}
+# Perplexity AI
 DOMAIN-SUFFIX,perplexity.ai
 DOMAIN-KEYWORD,perplexity
 
-# You.com / YouChat:contentReference[oaicite:5]{index=5}
+# You.com / YouChat
 DOMAIN-SUFFIX,you.com
 DOMAIN-KEYWORD,youchat
 DOMAIN-KEYWORD,youai
 
-# Mistral AI:contentReference[oaicite:6]{index=6}
+# Mistral AI
 DOMAIN-SUFFIX,mistral.ai
 DOMAIN-KEYWORD,mistral
 
-# Cohere:contentReference[oaicite:7]{index=7}
+# Cohere
 DOMAIN-SUFFIX,cohere.ai
 DOMAIN-SUFFIX,cohere.com
 DOMAIN-KEYWORD,cohere
 
-# Hugging Face:contentReference[oaicite:8]{index=8}
+# Hugging Face
 DOMAIN-SUFFIX,huggingface.co
 DOMAIN-KEYWORD,huggingface
 
-# Stability AI / Stable Diffusion:contentReference[oaicite:9]{index=9}
+# Stability AI / Stable Diffusion
 DOMAIN-SUFFIX,stability.ai
 DOMAIN-KEYWORD,stability
 DOMAIN-KEYWORD,stablediffusion
 
-# Midjourney（图像生成）:contentReference[oaicite:10]{index=10}
+# Midjourney
 DOMAIN-SUFFIX,midjourney.com
 DOMAIN-KEYWORD,midjourney
 
-# Character AI:contentReference[oaicite:11]{index=11}
+# Character AI
 DOMAIN-SUFFIX,character.ai
 DOMAIN-KEYWORD,characterai
 DOMAIN-KEYWORD,character
 
-# xAI / Grok:contentReference[oaicite:12]{index=12}
+# xAI / Grok
 DOMAIN-SUFFIX,x.ai
 DOMAIN-KEYWORD,xai
 DOMAIN-KEYWORD,grok
 
-# Reka AI:contentReference[oaicite:13]{index=13}
+# Reka AI
 DOMAIN-SUFFIX,reka.ai
 DOMAIN-KEYWORD,reka
 
-# Jasper AI（营销内容生成）:contentReference[oaicite:14]{index=14}
+# Jasper AI
 DOMAIN-SUFFIX,jasper.ai
 DOMAIN-KEYWORD,jasper
 
-# Rewind AI（本地回溯记忆）:contentReference[oaicite:15]{index=15}
+# Rewind AI
 DOMAIN-SUFFIX,rewind.ai
 DOMAIN-KEYWORD,rewind
+
+# Cursor
+DOMAIN-SUFFIX,cursor.com
+DOMAIN-SUFFIX,cursor.sh
+
+# JetBrains AI
+DOMAIN-SUFFIX,jetbrains.ai
+DOMAIN-SUFFIX,grazie.ai
+DOMAIN-SUFFIX,grazie.aws.intellij.net
+
+# Groq
+DOMAIN,api.groq.com
+DOMAIN,console.groq.com
+
+# Together AI
+DOMAIN,api.together.xyz
 
 ########## End of OpenAI & AI Services list ##########
