@@ -1,0 +1,10 @@
+﻿payload:
+  - DOMAIN-SUFFIX,rockstargames.com
+  - DOMAIN-SUFFIX,rockstar.com
+  - DOMAIN-KEYWORD,rockstar
+  - DOMAIN-SUFFIX,socialclub.rockstargames.com
+  - DOMAIN-SUFFIX,prod.cloud.rockstargames.com
+  - DOMAIN-KEYWORD,socialclub
+  - DOMAIN-SUFFIX,gamedownloads-rockstargames-com.akamaized.net
+  - DOMAIN-KEYWORD,rockstarlauncher
+  - DOMAIN-KEYWORD,reddead
