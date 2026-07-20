@@ -82,6 +82,7 @@ DOMAIN-SUFFIX,aliyuncdn.com
 DOMAIN-SUFFIX,aliyuncs.com
 DOMAIN-SUFFIX,aliyundrive.com
 DOMAIN-SUFFIX,aliyundrive.net
+DOMAIN-SUFFIX,alipan.com
 DOMAIN-SUFFIX,amap.com
 DOMAIN-SUFFIX,autonavi.com
 DOMAIN-SUFFIX,dingtalk.com
@@ -205,6 +206,7 @@ DOMAIN-SUFFIX,auth.wo.cn
 DOMAIN-SUFFIX,cmpassport.com
 DOMAIN-SUFFIX,id6.me
 DOMAIN-SUFFIX,mob.com
+DOMAIN-SUFFIX,cloud.189.cn
 DOMAIN-SUFFIX,open.e.189.cn
 
 # ChinaNet
@@ -412,6 +414,7 @@ DOMAIN-SUFFIX,tenpay.com
 DOMAIN-SUFFIX,wechat.com
 DOMAIN-SUFFIX,weixin.com
 DOMAIN-SUFFIX,weiyun.com
+DOMAIN-SUFFIX,yun.139.com
 
 # Vip 唯品会
 DOMAIN-SUFFIX,appsimg.com
@@ -481,7 +484,12 @@ IP-CIDR,1.12.12.12/32,no-resolve
 # AccelerateDirectSites
 DOMAIN-SUFFIX,10010.com
 DOMAIN-SUFFIX,115.com
+DOMAIN-SUFFIX,115cdn.com
+DOMAIN-SUFFIX,115cdn.net
+DOMAIN-SUFFIX,115img.com
+DOMAIN-SUFFIX,123pan.com
 DOMAIN-SUFFIX,12306.com
+DOMAIN-SUFFIX,quark.cn
 DOMAIN-SUFFIX,17173.com
 DOMAIN-SUFFIX,178.com
 DOMAIN-SUFFIX,17k.com
