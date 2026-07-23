@@ -15,7 +15,7 @@
   - DOMAIN-SUFFIX,intercom.io
   - DOMAIN-SUFFIX,intercomcdn.com
   - DOMAIN-KEYWORD,chatgpt
-  - DOMAIN-KEYWORD,sentry
+  - DOMAIN-SUFFIX,sentry.io
   - DOMAIN-KEYWORD,poe
   - DOMAIN-SUFFIX,gemini.google.com
   - DOMAIN-SUFFIX,bard.google.com
