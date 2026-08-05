@@ -1,6 +1,10 @@
 # 直连列表
 
 # MyList
+IP-CIDR,154.44.28.190/32,no-resolve
+DOMAIN,ip.3322.net
+DOMAIN,api.ipify.org
+DOMAIN,4.ipw.cn
 DOMAIN-SUFFIX,13th.tech
 DOMAIN-SUFFIX,423down.com
 DOMAIN-SUFFIX,bokecc.com
@@ -42,6 +46,7 @@ DOMAIN-KEYWORD,qhimg
 DOMAIN-KEYWORD,vpimg
 DOMAIN-KEYWORD,xiami
 DOMAIN-KEYWORD,xiaomi
+DOMAIN-KEYWORD,tencentcloudapi
 
 # 360
 DOMAIN-SUFFIX,360.com
