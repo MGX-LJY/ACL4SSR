@@ -1,5 +1,6 @@
 ﻿payload:
   - IP-CIDR,154.44.28.190/32,no-resolve
+  - DOMAIN,154.44.28.190
   - DOMAIN,ip.3322.net
   - DOMAIN,api.ipify.org
   - DOMAIN,4.ipw.cn
